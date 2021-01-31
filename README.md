@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/license-MIT-brightgreen) ![](https://img.shields.io/badge/Python-3.6-blue) ![](https://img.shields.io/badge/Pytorch-1.1.0-orange)
 
 <p align="center">
-  <img src="https://github.com/YiSyuanChen/MTL-ABS/blob/master/framework.png" width="372" height="368">
+  <img src="https://github.com/YiSyuanChen/MTL-ABS/blob/main/framework.png" width="372" height="368">
 </p>
 
 **[IMPORTANT] We are currently re-organizing and cleaning code for better usage, and we will keep update this repository recently.**
