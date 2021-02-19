@@ -7,7 +7,8 @@
 
 **[IMPORTANT] We are currently re-organizing and cleaning code for better usage, and we will keep update this repository recently.**
 
-[[Site at AAAI 2021](http://34.94.61.102/paper_AAAI-68.html)]
+[[Paper](https://arxiv.org/abs/2102.09397)]
+[[Datasets](https://drive.google.com/drive/folders/1v0Y5r8hPQZG94mZLGeIAUJoirXbDhLQk?usp=sharing)]
 
 
 # Introduction
@@ -16,8 +17,6 @@ Original PyTorch implementation for AAAI 2021 Paper "Meta-Transfer Learning for 
 
 If you have any questions on this repository or the related paper, feel free to create an issue or send me an email.
 
-
-# File Structure
 
 # Performance
 
@@ -37,7 +36,10 @@ If you have any questions on this repository or the related paper, feel free to 
 
 # Instructions
 ## Dataset
-Following steps are organized in the script _src/prepro_dataset.sh_.
+We provide part of the datasets that can be directly used for exploring. After downloading from [[Datasets](https://drive.google.com/drive/folders/1v0Y5r8hPQZG94mZLGeIAUJoirXbDhLQk?usp=sharing)], unzip the compressed file and place the folder under _MTL-ABS/_.
+
+The complete steps for preparing data are listed as below, which can also be found in script _src/prepro_dataset.sh_ and _src/prepro_meta_dataset.sh_ . 
+
 ### Step 1. Download Stanford CoreNLP
 Download the [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) and add the following command to bash file:
 ```
