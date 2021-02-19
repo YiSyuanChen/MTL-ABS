@@ -5,8 +5,6 @@
   <img src="https://github.com/YiSyuanChen/MTL-ABS/blob/main/framework.png" width="372" height="368">
 </p>
 
-**[IMPORTANT] We are currently re-organizing and cleaning code for better usage, and we will keep update this repository recently.**
-
 [[Paper](https://arxiv.org/abs/2102.09397)]
 [[Datasets](https://drive.google.com/drive/folders/1v0Y5r8hPQZG94mZLGeIAUJoirXbDhLQk?usp=sharing)]
 
