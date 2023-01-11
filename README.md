@@ -6,7 +6,7 @@
 </p>
 
 [[Paper](https://arxiv.org/abs/2102.09397)]
-[[Datasets](https://drive.google.com/drive/folders/1v0Y5r8hPQZG94mZLGeIAUJoirXbDhLQk?usp=sharing)]
+[[Datasets](https://drive.google.com/file/d/1Sok3fXqk4vG8bmjvULGurGRQeEGxiZzG/view?usp=sharing)]
 
 
 # Introduction
@@ -34,7 +34,7 @@ If you have any questions on this repository or the related paper, feel free to 
 
 # Instructions
 ## Dataset
-We provide part of the datasets that can be directly used for exploring. After downloading from [[Datasets](https://drive.google.com/drive/folders/1v0Y5r8hPQZG94mZLGeIAUJoirXbDhLQk?usp=sharing)], unzip the compressed file and place the folder under _MTL-ABS/_.
+We provide part of the datasets that can be directly used for exploring. After downloading from [[Datasets](https://drive.google.com/file/d/1Sok3fXqk4vG8bmjvULGurGRQeEGxiZzG/view?usp=sharing)], unzip the compressed file and place the folder under _MTL-ABS/_.
 
 The complete steps for preparing data are listed as below, which can also be found in script _src/prepro_dataset.sh_ and _src/prepro_meta_dataset.sh_ . 
 
